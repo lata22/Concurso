@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concurso", "Concurso\Concurso.csproj", "{FBADE8FB-77F7-454E-9976-F382EF081BE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{95ABB8A6-8A8B-4EF6-898D-A289A62EE5C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controllers", "Controllers\Controllers.csproj", "{D56DEBB0-F444-4DDB-A5A9-2E1F3C1B87CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBADE8FB-77F7-454E-9976-F382EF081BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBADE8FB-77F7-454E-9976-F382EF081BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBADE8FB-77F7-454E-9976-F382EF081BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBADE8FB-77F7-454E-9976-F382EF081BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95ABB8A6-8A8B-4EF6-898D-A289A62EE5C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95ABB8A6-8A8B-4EF6-898D-A289A62EE5C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95ABB8A6-8A8B-4EF6-898D-A289A62EE5C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95ABB8A6-8A8B-4EF6-898D-A289A62EE5C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D56DEBB0-F444-4DDB-A5A9-2E1F3C1B87CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D56DEBB0-F444-4DDB-A5A9-2E1F3C1B87CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D56DEBB0-F444-4DDB-A5A9-2E1F3C1B87CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D56DEBB0-F444-4DDB-A5A9-2E1F3C1B87CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83AB02C6-ED7A-46BA-9B0E-4928D2BDB283}
+	EndGlobalSection
+EndGlobal
